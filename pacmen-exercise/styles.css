@@ -1,0 +1,17 @@
+
+.body {
+    background-color: rgb(135, 206, 235);
+}
+
+.btn {
+    background-color: #3498db;
+    color: #fff;
+    border: 0;
+    border-radius: 6px;
+    align-items: center;
+    font-family: inherit;
+    padding: 8px 30px ;
+    margin: 5px;
+    font-size: 14px;    
+}
+
